@@ -21,7 +21,7 @@ color: #095156;;
 /***** HEADER *****/
 header {
     height: 800px;
-    background: url('file:///Users/nkm/Downloads/101-design-files.0/MyWebsite/milestone-project/images-icons/hero-image.png');
+    background: url('../images-icons/hero-image.png');
     background-size: cover;
 }
 
