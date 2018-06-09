@@ -21,7 +21,7 @@ color: #095156;;
 /***** HEADER *****/
 header {
     height: 800px;
-    background: url('../images-icons/hero-image.png');
+    background-image: url('../images-icons/hero-image.png');
     background-size: cover;
 }
 
